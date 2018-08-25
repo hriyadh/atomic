@@ -6,6 +6,9 @@
  - gas and fees
  - transactions 
  - blocks
+ - transaction execution
+ - mining
+ - proof of work
 
 
  
